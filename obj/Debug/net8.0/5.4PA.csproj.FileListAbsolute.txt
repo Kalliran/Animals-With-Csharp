@@ -1,0 +1,14 @@
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\bin\Debug\net8.0\5.4PA.exe
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\bin\Debug\net8.0\5.4PA.deps.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\bin\Debug\net8.0\5.4PA.runtimeconfig.json
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\bin\Debug\net8.0\5.4PA.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\bin\Debug\net8.0\5.4PA.pdb
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.AssemblyInfoInputs.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.AssemblyInfo.cs
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.csproj.CoreCompileInputs.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\refint\5.4PA.dll
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.pdb
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\5.4PA.genruntimeconfig.cache
+C:\Users\Michael\OneDrive - ECPI University\Desktop\School\ECPI\CIS214 - OOP_C_Sharp\PerformanceAssessments\Week5_PA\5.4PA\obj\Debug\net8.0\ref\5.4PA.dll
